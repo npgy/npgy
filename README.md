@@ -1,16 +1,25 @@
-### Hi there 👋
+# hello world 👋 🌎 🤪
 
-<!--
-**npgy/npgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Nick, a full-time developer 👨‍💻 and music lover 🎧.
 
-Here are some ideas to get you started:
+### 🛠️ I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[and.fm](https://and.fm)** (2023-Present), a music distributor which aims to run lean and mean and be the best open platform for artists.
+- **[Polychora](https://polychorarecs.bandcamp.com/)** (2016-Present), where it all started. A record label believing in unique underground electronic artists.
+
+**Recent Blog Posts:**
+
+- [Cloudflare Tunnels guide for the homelab](https://npgy.net/blog/how-to-cf-tunnels)
+
+**Skills:**
+
+- Front-end web development (NOT design 😅) (Angular, Svelte)
+- Backend/API development (C#, Golang, Rust)
+- System administration (Linux)
+- Containerization (Docker)
+- SQL and working with relational data
+- Architecture/DevOps (k8s, ArgoCD, Github Actions)
+- Mainframe Development (COBOL, JCL, REX, CICS) (yes, really)
+- A tad bit of cloud (AWS/GCP)
+
+_stick a fork in it, we're done_
