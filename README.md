@@ -20,6 +20,6 @@
 - SQL, Stored Procedures, working with relational data (IBM DB2, PostgreSQL)
 - Architecture/DevOps (k8s, ArgoCD, Github Actions)
 - Mainframe Development (COBOL, JCL, REX, CICS) (yes, really)
-- A tad bit of cloud (AWS/GCP)
+- A tad bit of cloud (AWS, GCP, event-driven architecture)
 
 _stick a fork in it, we're done_
