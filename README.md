@@ -4,7 +4,7 @@
 
 ### 🛠️ I’m currently working on
 
-- **[and.fm](https://and.fm)** (2023-Present), a music distributor which aims to run lean and mean and be the best open platform for artists.
+- **[and.fm](https://and.fm)** (2023-Present), a music distributor and label services company which aims to run lean and mean and be the best open platform for artists.
 - **[Polychora](https://polychorarecs.bandcamp.com/)** (2016-Present), where it all started. A record label believing in unique underground electronic artists.
 
 **Recent Blog Posts:**
