@@ -17,7 +17,7 @@
 - Backend/API development (C#, Golang, Rust)
 - System administration (Linux)
 - Containerization (Docker)
-- SQL and working with relational data
+- SQL, Stored Procedures, working with relational data (IBM DB2, PostgreSQL)
 - Architecture/DevOps (k8s, ArgoCD, Github Actions)
 - Mainframe Development (COBOL, JCL, REX, CICS) (yes, really)
 - A tad bit of cloud (AWS/GCP)
