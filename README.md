@@ -14,12 +14,10 @@
 **Skills:**
 
 - Front-end web development (NOT design 😅) (Angular, Svelte)
-- Backend/API development (C#, Golang, Rust)
+- Backend/API development (C#, Golang)
 - System administration (Linux)
 - Containerization (Docker)
 - SQL, Stored Procedures, working with relational data (IBM DB2, PostgreSQL)
-- Architecture/DevOps (k8s, ArgoCD, Github Actions)
-- Mainframe Development (COBOL, JCL, REX, CICS) (yes, really)
-- A tad bit of cloud (AWS, GCP, event-driven architecture)
+- Architecture/DevOps (k8s, ArgoCD/FluxCD, Github Actions)
 
 _stick a fork in it, we're done_
